@@ -1,0 +1,41 @@
+
+
+div.logo{
+    float: left;
+    margin-left: 40px;
+}
+
+ul{
+    float: right;
+    display: flex;
+    list-style: none;
+   
+    
+
+}
+li a{
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+    margin-right: 55px;
+    color: black;
+}
+li{
+    text-align: center;
+}
+li a:hover{
+    color: blue;
+}
+
+div.border{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 244px;
+}
+/* section.services{
+    margin-left: 50px;
+} */
+
+
+
+
+
